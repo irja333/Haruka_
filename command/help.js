@@ -38,7 +38,7 @@ ${mundur}
  • Role : ${role}
  
  
-*MAIN MENU*${petik}
+*MAIN MENU*
  • ${prefix}menu
  • ${prefix}infobot
  • ${prefix}donate
@@ -51,11 +51,10 @@ ${mundur}
  • ${prefix}listsewa
  • ${prefix}speed
  • ${prefix}runtime
- • ${prefix}listbahasa${petik}
+ • ${prefix}listbahasa
 
-*CONVERTER/TOOLS*${petik} 
+*CONVERTER/TOOLS* 
  • ${prefix}sticker
- • ${prefix}stickerwm
  • ${prefix}smeme
  • ${prefix}toimg
  • ${prefix}tovideo
@@ -71,9 +70,9 @@ ${mundur}
  • ${prefix}foliokiri
  • ${prefix}foliokanan
  • ${prefix}say
- • ${prefix}translate${petik}
+ • ${prefix}translate
 
-*ANONYMOUS CHATS*${petik}
+*ANONYMOUS CHATS*
  • ${prefix}menfess
  • ${prefix}confess
  • ${prefix}balasmenfess
@@ -83,9 +82,9 @@ ${mundur}
  • ${prefix}start
  • ${prefix}next
  • ${prefix}stop
- • ${prefix}sendprofile${petik}
+ • ${prefix}sendprofile
 
-*STORE MENU*${petik}
+*STORE MENU*
  • ${prefix}list
  • ${prefix}addlist
  • ${prefix}dellist
@@ -102,9 +101,9 @@ ${mundur}
  • ${prefix}changeproses
  • ${prefix}setproses
  • proses < reply chat >
- • done < reply chat >${petik}
+ • done < reply chat >
 
-*RPG GAMES*${petik}
+*RPG GAMES*
  • ${prefix}inventory
  • ${prefix}mining
  • ${prefix}buy 
@@ -133,9 +132,9 @@ ${mundur}
  • ${prefix}jualkayu
  • ${prefix}nebang
  • ${prefix}goplanet
- • ${prefix}jualbahankimia${petik}
+ • ${prefix}jualbahankimia
 
-*DOWNLOADS MENU*${petik}
+*DOWNLOADS MENU*
  • ${prefix}play
  • ${prefix}ytmp3
  • ${prefix}ytmp4
@@ -147,9 +146,9 @@ ${mundur}
  • ${prefix}tiktoknowm
  • ${prefix}tiktokaudio
  • ${prefix}mediafire
- • ${prefix}gitclone${petik}
+ • ${prefix}gitclone
 
-*GROUP MENU*${petik}
+*GROUP MENU*
  • ${prefix}afk
  • ${prefix}welcome
  • ${prefix}left
@@ -183,36 +182,36 @@ ${mundur}
  • ${prefix}demote
  • ${prefix}revoke
  • ${prefix}hidetag
- • ${prefix}checksewa${petik}
+ • ${prefix}checksewa
 
-*GAME MENU*${petik}
+*GAME MENU*
  • ${prefix}tictactoe
  • ${prefix}delttt
  • ${prefix}casino
- • ${prefix}delcasino${petik}
+ • ${prefix}delcasino
 
-*SEARCH MENU*${petik}
+*SEARCH MENU*
  • ${prefix}lirik
  • ${prefix}grupwa
  • ${prefix}pinterest
- • ${prefix}ytsearch${petik}
+ • ${prefix}ytsearch
 
-*RANDOM MENU*${petik}
+*RANDOM MENU*
  • ${prefix}cecan
  • ${prefix}cogan
- • ${prefix}waifu${petik}
+ • ${prefix}waifu
 
 
-*BALANCE MENU*${petik}
+*BALANCE MENU*
  • ${prefix}topglobal
  • ${prefix}toplocal
  • ${prefix}buylimit
  • ${prefix}buyglimit
  • ${prefix}transfer
  • ${prefix}limit
- • ${prefix}balance${petik}
+ • ${prefix}balance
 
-*STORAGE*${petik}
+*STORAGE*
  • ${prefix}addstik
  • ${prefix}addvn
  • ${prefix}addimg
@@ -220,18 +219,18 @@ ${mundur}
  • ${prefix}liststik
  • ${prefix}listvn
  • ${prefix}listimg
- • ${prefix}listvid${petik}
+ • ${prefix}listvid
  
-*BAILEYS*${petik}
+*BAILEYS*
  • ${prefix}fitnah
  • ${prefix}nowa
  • ${prefix}getquoted
  • ${prefix}fakehidetag
  • ${prefix}react
  • ${prefix}setcmd
- • ${prefix}delcmd${petik}
+ • ${prefix}delcmd
 
-*OWNERS MENU*${petik}
+*OWNERS MENU*
  • ${prefix}autoread
  • ${prefix}autobio
  • ${prefix}antidelete
@@ -254,9 +253,9 @@ ${mundur}
  • ${prefix}addpremium
  • ${prefix}delpremium
  • ${prefix}addsewa
- • ${prefix}delsewa${petik}
+ • ${prefix}delsewa
 
-*ASUPAN MENU*${petik}
+*ASUPAN MENU*
  • ${prefix}chika
  • ${prefix}delvira
  • ${prefix}ayu
@@ -278,9 +277,9 @@ ${mundur}
  • ${prefix}geayubi
  • ${prefix}santuy
  • ${prefix}ukhty
- • ${prefix}syifa${petik}
+ • ${prefix}syifa
 
-*NSFW MENU*${petik}
+*NSFW MENU*
  • ${prefix}baka
  • ${prefix}smug
  • ${prefix}neko_sfw
@@ -335,10 +334,10 @@ ${mundur}
  • ${prefix}panties
  • ${prefix}tentacles
  • ${prefix}thighs
- • ${prefix}zettai${petik}
+ • ${prefix}zettai
 
 
-*TEXTPRO MENU*${petik}
+*TEXTPRO MENU*
  • ${prefix}halloween2
  • ${prefix}horror
  • ${prefix}game8bit
@@ -518,7 +517,7 @@ ${mundur}
  • ${prefix}3dchrome
  • ${prefix}metalb2
  • ${prefix}metalg
- • ${prefix}metalg${petik}
+ • ${prefix}metalg
 `
 }
 
@@ -527,4 +526,4 @@ exports.donate = (pushname, ownerNumber) => {
 wa.me/${ownerNumber} (Owner)`
 }
 
-exports.sewanya = `Untuk List Sewa ubah sendiri di folder command, file help.js 👌 baris ke 521`
+exports.sewanya = `10.000 Pergroup Permanen (sampe ke ban) untuk detail lanjut hubungi owner 🤞🏻`
